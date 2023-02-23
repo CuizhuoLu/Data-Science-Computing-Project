@@ -1,1 +1,2 @@
-# Data-Science-Computing-Project
+# Data-Science-Computing-Project 
+The development of tools necessary for collecting, managing, and analyzing large data sets. Examples of techniques and programs utilized include Linux, R, distributed computing, powerful editor(s), git/github, and other related tools. Work in the class will be done in teams to research, develop, write, and make presentations related to a variety of data analysis projects
